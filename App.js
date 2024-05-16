@@ -1,4 +1,4 @@
-import Routes from "./routes";
+import Routes from "./src/routes";
 
 function App() {
   return (
@@ -9,4 +9,3 @@ function App() {
 }
 
 export default App;
-
